@@ -1,0 +1,14 @@
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\obj\Debug\netcoreapp3.1\Frown.csproj.AssemblyReference.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\obj\Debug\netcoreapp3.1\Frown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\obj\Debug\netcoreapp3.1\Frown.AssemblyInfoInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\obj\Debug\netcoreapp3.1\Frown.AssemblyInfo.cs
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\obj\Debug\netcoreapp3.1\Frown.csproj.CoreCompileInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\bin\Debug\netcoreapp3.1\Frown.exe
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\bin\Debug\netcoreapp3.1\Frown.deps.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\bin\Debug\netcoreapp3.1\Frown.runtimeconfig.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\bin\Debug\netcoreapp3.1\Frown.runtimeconfig.dev.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\bin\Debug\netcoreapp3.1\Frown.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\bin\Debug\netcoreapp3.1\Frown.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\obj\Debug\netcoreapp3.1\Frown.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\obj\Debug\netcoreapp3.1\Frown.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Frown\Frown\Frown\obj\Debug\netcoreapp3.1\Frown.genruntimeconfig.cache
